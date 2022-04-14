@@ -9,7 +9,7 @@ This project was developed using starter code to create a back-end application f
 ### [Repository on Github](https://github.com/brandonespencer/ORM-ECommerce)
 
 
-## Video walkthrough example 
+## Video Demo
 
 
 
