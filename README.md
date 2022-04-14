@@ -5,7 +5,7 @@
 
 This project was developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.  
 
-T
+
 ### [Repository on Github](https://github.com/brandonespencer/ORM-ECommerce)
 
 
